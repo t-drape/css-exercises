@@ -1,4 +1,4 @@
-# Dropdown Menu
+o# Dropdown Menu
 
 We've set up a dropdown menu in this exercise. Load up the page, you can see a single menu title, with a dropdown menu that will open upon clicking on the title. 
 
